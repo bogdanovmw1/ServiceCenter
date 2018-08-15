@@ -1,0 +1,28 @@
+#logo{
+	width: 70%; margin: 150px 0 30px 20px;
+}
+
+#logo:hover{
+	opacity: 0.9;
+}
+
+#filter{
+	float:right;
+	width: 5%;
+}
+
+#filterForm {
+	margin: 0;
+	padding: 0;
+}
+
+#filterForm li{
+	list-style-type: none;
+	width: 203px;
+	float: left;
+	padding: 0 10px 0 0;
+}
+
+#filterFormActive{
+	
+}
